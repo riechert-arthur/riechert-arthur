@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riechert-arthur
 - 👀 I’m interested in the world.
-- 🌱 I’m currently learning React & Next.
+- 🌱 I’m currently learning OpenGL.
 - 💞️ I’m looking to collaborate on anything fun.
 - 📫 How to reach me -> email.
 
