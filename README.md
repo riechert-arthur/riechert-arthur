@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @riechert-arthur
-- 👀 I’m interested in the world.
-- 🌱 I’m currently learning OpenGL.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on anything fun.
-- 📫 How to reach me -> email.
 
 <!---
 riechert-arthur/riechert-arthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
